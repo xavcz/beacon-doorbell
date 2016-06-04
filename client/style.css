@@ -1,0 +1,38 @@
+body {
+    background: #eeeeee; /* Old browsers */
+    background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    color: #000;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    margin-top: 40px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background: #e52d27; /* Old browsers */
+    background: -moz-linear-gradient(top,  #e52d27 0%, #b31217 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #e52d27 0%,#b31217 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #e52d27 0%,#b31217 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e52d27', endColorstr='#b31217',GradientType=0 ); /* IE6-9 */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    border-radius: 25px;
+}
+
+.add-to-slack-button {
+    width: 139px;
+    height: 40px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,8 @@
+{
+  "slack": {
+    "clientId": "YOUR_SLACK_APP_CLIENT_ID",
+    "botName": "YOUR_BOT_NAME",
+    "botIcon": "YOUR_BOT_ICON",
+    "clientSecret": "YOUR_SLACK_APP_CLIENT_SECRET",
+  }
+}
